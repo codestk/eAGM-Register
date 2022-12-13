@@ -1,0 +1,175 @@
+@font-face{font-family:"BangkokBank-Regular";src:url(../fonts/bangkokbankset-regular.eot);src:url(../fonts/bangkokbankset-regular.woff) format("woff"),url(../fonts/bangkokbankset-regular.woff2) format("woff2");font-weight:0;font-style:normal}
+@font-face{font-family:"BangkokBank-Medium";src:url(../fonts/bangkokbankset-medium.eot);src:url(../fonts/bangkokbankset-medium.woff) format("woff"),url(../fonts/bangkokbankset-medium.woff2) format("woff2");font-weight:0;font-style:normal}
+@font-face{font-family:"BangkokBank-Light";src:url(../fonts/bangkokbankset-light.eot);src:url(../fonts/bangkokbankset-light.woff) format("woff"),url(../fonts/bangkokbankset-light.woff2) format("woff2");font-weight:0;font-style:normal}
+@font-face{font-family:"BangkokBank-Bold";src:url(../fonts/bangkokbankset-bold.eot);src:url(../fonts/bangkokbankset-bold.woff) format("woff"),url(../fonts/bangkokbankset-bold.woff2) format("woff2");font-weight:0;font-style:normal}
+@font-face{font-family:"BangkokBank_Text-Regular";src:url(../fonts/bangkokbankset-text-regular.eot);src:url(../fonts/bangkokbankset-text-regular.woff) format("woff"),url(../fonts/bangkokbankset-text-regular.woff2) format("woff2");font-weight:0;font-style:normal}
+@font-face{font-family:"BangkokBank_Text-Bold";src:url(../fonts/bangkokbankset-text-bold.eot);src:url(../fonts/bangkokbankset-text-bold.woff) format("woff"),url(../fonts/bangkokbankset-text-bold.woff2) format("woff2");font-weight:0;font-style:normal}
+[lang="th"] {font-size:17px !important}
+[lang="th"] .currency-list{font-size:.93rem}
+[lang="th"] .currency-list table tr th {font-size:.93rem}
+[lang="th"] body{font-family:'BangkokBank-Regular',Tahoma,Helvetica,Arial,sans-serif;line-height:1.3;}
+[lang="th"] .container{font-family:'BangkokBank-Regular',Tahoma,Helvetica,Arial,sans-serif;line-height:1.3;}
+[lang="th"] b,[lang="th"] strong{font-family: BangkokBank-Bold,Tahoma,Helvetica,Arial,sans-serif;}
+[lang="th"] b span,[lang="th"] strong span{font-weight:700}
+[lang="th"] .text-default{font-family:'BangkokBank-Regular',Tahoma,Helvetica,Arial,sans-serif;font-size:1rem;line-height:1.5rem}
+[lang="th"] .intro-info .text-default{font-family:'BangkokBank-Regular',Tahoma,Helvetica,Arial,sans-serif;font-size:1rem;line-height:1.5rem}
+[lang="th"] #nav {padding-top: 13px;}
+[lang="th"] #nav .nav-title {font-size: 1rem;font-weight: bold;font-family: 'BangkokBank-Bold',Tahoma,Helvetica,Arial,sans-serif;}
+[lang="th"] .breadcrumb .inner-container > ul li{font-family:'BangkokBank-Bold',Tahoma,Helvetica,Arial,sans-serif}
+[lang="th"] [class*=title],[lang="th"] h1,[lang="th"] h2,[lang="th"] h3,[lang="th"] h4,[lang="th"] h5,[lang="th"] h6,[lang="th"] .caption .intro,[lang="th"] .breadcrumb li,[lang="th"] .catalogue-select,[lang="th"] .filter-button,[lang="th"] .radio label span,[lang="th"] .search-advance,[lang="th"] .custom-links .text,[lang="th"] .btn-convert,[lang="th"] .ui-datepicker-title,[lang="th"] .ui-datepicker th,[lang="th"] .update-flex-list .item span,[lang="th"] .download-link a,[lang="th"] [data-tab] .financial-plan,[lang="th"] .top-header a,[lang="th"] .modal-title,[lang="th"] .filter-detail,[lang="th"] .nav-title,[lang="th"] .other-quicklinks a span,[lang="th"] #online-banking .top-links > li > a,[lang="th"] .forget-something,[lang="th"] .download-preview-file,[lang="th"] .rang-slider .range,[lang="th"] .icon-search span,[lang="th"] .search-input input,[lang="th"] .thumb-card .inner .text-default,[lang="th"] .btn-default,[lang="th"] .btn-white,[lang="th"] .label,[lang="th"] .ui-selectmenu-menu .ui-menu-item,[lang="th"] .ui-selectmenu-button,[lang="th"] select.form-control,[lang="th"] .download-file,[lang="th"] .table-primary,[lang="th"] .tab-header a,[lang="th"] .tabs-dropdown select{font-family:'BangkokBank-Bold',Tahoma,Helvetica,Arial,sans-serif;}
+[lang="th"] [data-tab] .tab-header a {font-size: 1rem;text-transform: uppercase;position: relative;display: inline-block;}
+[lang="th"] .font-regular,[lang="th"] .text-light{font-family:'BangkokBank-Light',Tahoma,Helvetica,Arial,sans-serif;font-weight:400}
+[lang="th"] .download-file{font-family: BangkokBank-Bold,Tahoma,Helvetica,Arial,sans-serif !important;}
+[lang="th"] .download-file span{font-family: BangkokBank-Bold,Tahoma,Helvetica,Arial,sans-serif;}
+[lang="th"] .testimonials .item .caption .text-large{font-size:1.3rem;line-height:1.3}
+[lang="th"] .main-nav li.has-sub .link-sub{position:relative;padding-right:25px;top:0px;font-size:1.1rem;}
+[lang="th"] .main-nav li.has-sub .link-sub:after{position:absolute;right:0;top:10px;font-size:6px}
+[lang="th"] #search-modal .search-input input{font-family:'BangkokBank-Light',Tahoma,Helvetica,Arial,sans-serif;padding:0;background-color:inherit;color:#fff;font-size:3rem;font-weight:700;line-height:3.5rem;overflow:hidden;text-overflow:ellipsis;width:100%;margin-left:auto;margin-right:auto;display:block}
+[lang="th"] .tile .line {font-family: 'BangkokBank-Regular',Tahoma,Helvetica,Arial,sans-serif;font-size: 1.25rem;}
+[lang="th"] .sub-title{text-transform:uppercase;font-family:'BangkokBank_Text-Bold',Tahoma,Helvetica,Arial,sans-serif;font-size: 1rem !important;padding: 10px 0 10px 0;}
+[lang="th"] .mobile-sub-title{text-transform:uppercase;font-family:'BangkokBank_Text-Bold',Tahoma,Helvetica,Arial,sans-serif;font-size: 0.93rem !important;letter-spacing: .8px;padding-bottom: 5px;}
+[lang="th"] .quick-plan-slider .sub-title.line{text-transform:uppercase;font-family:'BangkokBank-Bold',Tahoma,Helvetica,Arial,sans-serif !important;font-size: 1rem !important;padding-bottom: 20px;}
+[lang="th"] .quick-plan-slider .mobile-sub-title.line{text-transform:uppercase;font-family:'BangkokBank-Bold',Tahoma,Helvetica,Arial,sans-serif !important;font-size: 0.93rem !important;letter-spacing: .8px;padding-bottom: 5px;}
+[lang="th"] .quick-news .slick-dots{text-align:left;bottom:-50px!important}
+[lang="th"] .quick-plan-slider .sub-title{font-family:'BangkokBank-Light',Tahoma,Helvetica,Arial,sans-serif;font-weight:700}
+[lang="th"] .slick-slide .sub-title-medium{font-family:'BangkokBank-Bold',Tahoma,Helvetica,Arial,sans-serif !important;font-weight:700;font-size:1rem;text-transform:uppercase;letter-spacing:.7px}
+[lang="th"] .quick-links .sub-title-medium{font-family:'BangkokBank_Text-Bold',Tahoma,Helvetica,Arial,sans-serif !important;font-weight:700;font-size:1rem;text-transform:uppercase;letter-spacing:.7px}
+[lang="th"] .mobile-tools .sub-title-medium{font-family:'BangkokBank_Text-Bold',Tahoma,Helvetica,Arial,sans-serif!important;font-weight:700;font-size:1rem;text-transform:uppercase;letter-spacing:.7px;margin-top:15px;}
+[lang="th"] .sub-title-medium.line.right{font-size:1.05rem;font-family: inherit;text-transform:uppercase;letter-spacing:.7px}
+[lang="th"] .thumb-full .title-1{font-size:2.4rem}
+[lang="th"] .thumb-full h4.sub-title-medium.line {font-family:'BangkokBank_Text-Bold',Tahoma,Helvetica,Arial,sans-serif !important;font-size:.93rem}
+[lang="th"] .product-intro-modal .sub-title{text-transform:uppercase;font-family:'BangkokBank-Bold',Tahoma,Helvetica,Arial,sans-serif;font-size: 1rem !important;letter-spacing: .8px;padding: 10px 0 10px 0;}
+[lang="th"] .mega-menu .quick-links a{font-family:'BangkokBank-Regular',Tahoma,Helvetica,Arial,sans-serif;font-size:.93rem;padding:6px 0;display:block;color:#4e4e4e;line-height:1.25rem;white-space:normal}
+[lang="th"] #header .top-header .top-links a{font-size:.78rem;font-family:'BangkokBank_Text-Bold',Helvetica,"Microsoft JhengHei",Ã¥Â¾Â®Ã¨Â»Å¸Ã¦Â­Â£Ã¯Â¿Â½Ã©Â«â€,"Hiragino Sans GB",Arial,sans-serif !important}
+[lang="th"] #online-banking .top-links [data-level-1]{font-family:'BangkokBank-Light',Tahoma,Helvetica,Arial,sans-serif;text-transform:none;font-size:1rem;color:#999}
+[lang="th"] #online-banking .top-links > li > a{margin:0;position:relative;padding:8px 0;text-align:right}
+[lang="th"] .language-change span{font-family:'Muli-Bold';font-size:.8667rem}
+[lang="th"] .banner-carousel .caption .intro,[lang="th"] .main-banner .caption .intro{line-height:1.25}
+[lang="th"] .banner-carousel .caption .intro{font-size:2.933rem;font-weight: bold;line-height:3.8rem;padding-bottom:10px;text-shadow:0 1px 1px rgba(0,0,0,0.5)}
+[lang="th"] .banner-carousel .caption p{font-family:'BangkokBank-Regular',Tahoma,Helvetica,Arial,sans-serif;font-size:1.1rem;line-height:1.57}
+[lang="th"] .banner .caption p{font-family: 'BangkokBank-Regular',Tahoma,Helvetica,Arial,sans-serif;font-size:1.2rem;line-height:1.8rem;overflow:hidden;display:-webkit-box;-webkit-line-clamp:10;-webkit-box-orient:vertical;padding-bottom: 15px;}
+[lang="th"] .thumb-default .caption{font-size:1rem}
+[lang="th"] .group-link .list-links ul a{font-family:'BangkokBank_Text-Regular',Tahoma,Helvetica,Arial,sans-serif;padding:4px 0;font-size:.93rem;display:inline-block}
+[lang="th"] .group-link .title {font-size: 1rem;font-family: 'Muli-Bold';padding: 20px 0;}
+@media only screen and (max-width: 991px) {
+[lang="th"] #search-modal .search-input input{width:100%}
+[lang="th"] .mega-menu .quick-links a{font-size:.93rem;padding:20px 0!important;display:block;color:#4e4e4e;line-height:1.25rem;white-space:normal}
+[lang="th"] .main-nav li.has-sub .link-sub:after{position:absolute;right:0;top:50%;font-size:6px}
+[lang="th"] .language-selection span,[lang="th"] .main-nav li.has-sub.current{font-family:'BangkokBank-Bold',Tahoma,Helvetica,Arial,sans-serif}
+[lang="th"] .title-1{line-height:1.25;font-size:2rem!important}
+[lang="th"] .mobile-tools .title-1{line-height:1.25;font-size:1rem}
+[lang="th"] .banner-carousel .caption .intro{font-size:2rem!important;line-height:1.25!important;padding-bottom:30px}
+[lang="th"] .banner-carousel .caption p{font-size:1.1rem!important;line-height:1.57}
+[lang="th"] .mega-menu .info [data-level-1]{margin:0;padding:0;text-align:left;border-bottom:1px solid rgba(0,0,0,0.1);position:relative}
+[lang="th"] .thumb-full.large {background-size: cover;background-repeat: no-repeat;background-position: 50% 50%;height: auto !important;}
+[lang="th"] [data-section-title="เครื่องมือช่วยเหลือ"] .thumb-full.large {background-size: cover;background-repeat: no-repeat;background-position: 50% 50%;height: 220px !important;}
+}
+@media only screen and (max-width: 767px) {
+[lang="th"] .main-nav li.has-sub .link-sub:after{position:absolute;right:0;top:50%;font-size:6px}
+[lang="th"] .icon-search span{font-size:1rem;top:14px;font-weight: bold;}
+[lang="th"] #nav {padding-top: 0px!important}
+[lang="th"] #search-modal .search-input input{font-size:2.73rem!important}
+[lang="th"] #search-modal .easy-autocomplete-container .eac-item a .sub-title-medium{font-family:'BangkokBank-Light',Tahoma,Helvetica,Arial,sans-serif,YuGothic,'Yu Gothic',Ã¦Â¸Â¸Ã£â€šÂ´Ã£â€šÂ·Ã£Æ’Æ’Ã£â€šÂ¯Ã¤Â½â€œ,Ã¦Â¸Â¸Ã£â€šÂ´Ã£â€šÂ·Ã£Æ’Æ’Ã£â€šÂ¯,'Ã£Æ’â€™Ã£Æ’Â©Ã£â€šÂ®Ã£Æ’Å½Ã¨Â§â€™Ã£â€šÂ´ Pro W3','Hiragino Kaku Gothic Pro',Ã£Æ’Â¡Ã£â€šÂ¤Ã£Æ’ÂªÃ£â€šÂª,Meiryo,'Ã¯Â¼Â­Ã¯Â¼Â³ Ã¯Â¼Â°Ã£â€šÂ´Ã£â€šÂ·Ã£Æ’Æ’Ã£â€šÂ¯'!important;font-size:1rem}
+[lang="th"] .main-nav a,.main-nav .link-sub{color:#2b2b2b;display:table-cell;padding:25px 0;font-weight:700;white-space:nowrap;font-size: 1rem !important;}
+[lang="th"] .quick-news .slick-dots{text-align:left;bottom:-50px!important}
+[lang="th"] .no-touch.desktop .main-nav li.has-sub .link-sub:hover {animation: none!important;}
+[lang="th"] .inner-container{padding:0 20px}
+[lang="th"] .desktop-banner,.desktop-teaser-container{display:none !important}
+[lang="th"] .mobile-banner,.mobile-teaser-container{display:block !important}
+[lang="th"] .banner,[lang="th"].banner-carousel {min-height: 450px !important;width: 100%;font-family:'BangkokBank-Bold',Tahoma,Helvetica,Arial,sans-serif !important;font-size:1rem !important;}
+[lang="th"] .thumb {background-repeat: no-repeat;background-size: cover;transition: all .2s;}
+[lang="th"] .thumb.mobile-banner {height: 50%!important;}
+[lang="th"] .banner .thumb.mobile-banner:before {content: '';background: rgba(255,255,255,0.1)!important;position: absolute;top: 0;left: 0;right: 0;bottom: 0;}
+[lang="th"] .banner .caption.mobile-banner{position: relative !important;top: 10px !important;}
+[lang="th"] .mobile-banner .mobile-sub-title,[lang="th"].mobile-banner .mobile-title-1{color: #4e4e4e!important;transition:all .6s .4s;text-shadow:0 1px 1px rgba(255,255,255,0.5)!important}
+[lang="th"] .mobile-banner .mobile-title-1{font-size: 2rem;font-weight: 700;line-height: 2rem;font-family:'BangkokBank-Bold',Tahoma,Helvetica,Arial,sans-serif;letter-spacing: -.2px;}
+[lang="th"] .mobile-banner p{color:#4e4e4e!important;text-shadow: 0 1px 1px rgba(255,255,255,0.5);}
+[lang="th"] .mobile-banner .banner .caption .line {color: #4e4e4e!important;margin: 0 0 15px;padding: 0 0 15px;text-shadow: 0 1px 1px rgba(255,255,255,0.5);}
+[lang="th"] .mobile-banner .line:before {content: '';position: absolute;left: 0;width: 21px;bottom: 0;height: 1px;background: #4e4e4e!important;}
+[lang="th"] .banner .caption p {font-family:'BangkokBank-Regular',Tahoma,Helvetica,Arial,sans-serif;font-size: 1.1rem !important;line-height: 1.57;overflow: hidden;display: -webkit-box;-webkit-line-clamp: 10;-webkit-box-orient: vertical;text-shadow: 0 1px 1px rgba(255,255,255,0.5);}
+[lang="th"] .banner-carousel .mobile-banner .mobile-sub-title,[lang="th"].banner-carousel .mobile-banner .mobile-title-1{font-family:'BangkokBank-Bold',Tahoma,Helvetica,Arial,sans-serif !important;color: #4e4e4e!important;transform:translateY(300px);opacity:0;transition:all .6s .4s;text-shadow:0 1px 1px rgba(255,255,255,0.5)!important}
+[lang="th"] .banner-carousel ,[lang="th"] .main-banner{background: rgba(255, 255, 255, 0.1)!important;padding-bottom: 30px;}
+[lang="th"] .banner-carousel .caption,[lang="th"] .main-banner .caption{background: rgba(120, 120, 120, 0)!important}
+[lang="th"] .banner-carousel .caption .mobile-banner .mobile-intro,[lang="th"].main-banner .caption .mobile-banner .mobile-sub-title{padding:1rem 0;color: #4e4e4e!important;font-size:2rem;line-height:2.4rem;font-family:'BangkokBank-Bold',Tahoma,Helvetica,Arial,sans-serif !important;padding-bottom:10px;transform:translateY(300px);opacity:0;transition:all .6s .45s;text-shadow:0 1px 1px rgba(255,255,255,0.5)!important}
+[lang="th"] .banner-carousel .item.slick-active .caption .mobile-banner .mobile-intro{font-family:'BangkokBank-Bold',Tahoma,Helvetica,Arial,sans-serif !important;opacity:1;transform:translate(0);padding:10px 0 10px 0;line-height:1}
+[lang="th"] .banner-carousel .item.slick-active .mobile-banner .mobile-sub-title{font-family:'BangkokBank_Text-Bold',Tahoma,Helvetica,Arial,sans-serif !important;opacity:1;transform:translate(0)}
+[lang="th"] .banner-carousel .item.slick-active .button-group,[lang="th"] .banner-carousel .item.slick-active .mobile-intro{font-family: 'BangkokBank-Bold',Tahoma,Helvetica,Arial,sans-serif !important;opacity:1;transform:translate(0)}
+[lang="th"] .banner-carousel .slick-dots {position: absolute;bottom:40px;list-style: none;display: block;padding: 0;margin: 0!important;width: 100%;height:20px}
+[lang="th"] .slick-dots li.slick-active button{border-color:#ccc !important;opacity:1}
+[lang="th"] .slick-dots li button:before {background: #ccc !important;}
+[lang="th"] .banner-carousel .middle-block {padding-bottom: 30px!important;}
+[lang="th"] .banner-carousel .caption,[lang="th"] .main-banner .caption {padding: 0!important;}
+[lang="th"] .banner-carousel .caption.mobile-banner,[lang="th"] .main-banner .caption.mobile-banner {position:relative !important;top:0px !important}
+}
+[lang="th"] .be-banking{font-family:'BangkokBank-Regular',Tahoma,Helvetica,Arial,sans-serif!important;font-size:15px!important;line-height:1.25}
+[lang="th"] .be-banking .container{font-family:'BangkokBank-Regular',Tahoma,Helvetica,Arial,sans-serif!important;}
+[lang="th"] .be-banking .main-nav li.has-sub .link-sub{position:relative;padding-right:25px;top:-2px}
+[lang="th"] .be-banking #nav .nav-title a{font-family:'BangkokBank-Regular',Tahoma,Helvetica,Arial,sans-serif;font-size:1.1rem!important;color:#cbad6f}
+[lang="th"] .be-banking #nav .nav-title a:after{transition:all .3s;margin-left:20px;font-size:.6rem}
+[lang="th"] .be-banking .mobile-banner .mobile-sub-title,[lang="th"].be-banking .mobile-banner .mobile-title-1{font-family:'BangkokBank_Text-Bold',Tahoma,Helvetica,Arial,sans-serif !important;color: #4e4e4e!important;transition:all .6s .4s;text-shadow:0 1px 1px rgba(255,255,255,0.5)!important}
+[lang="th"] .be-banking .main-nav li.has-sub .link-sub:after{position:absolute;right:0;top:11px;font-size:6px}
+[lang="th"] .be-banking .editor ul,[scfieldtype='rich text'] ul,[lang="th"] .be-banking .text-default ul,[lang="th"] .be-banking .scWebEditInput ul{list-style:disc;margin-left:20px;padding-left:inherit;font-size:1rem}
+[lang="th"] .be-banking .language-change span{font-family:'Muli-Bold';font-size:.8667rem}
+[lang="th"] .be-banking .language-change img{width:21px;border-radius:50%;position:relative;top:-2px}
+[lang="th"] .be-banking .icon-search span{font-size:1rem !important;color:#2b2b2b;position:absolute;left:62px;text-transform:uppercase;top:12px}
+[lang="th"] .be-banking .custom-links .all-links a{padding:4px 0;color:#000;display:block;white-space:nowrap;max-width:72vw;text-overflow:ellipsis;overflow:hidden;font-size:1rem}
+[lang="th"] .be-banking .middle-block .text-default{font-size:1rem}
+[lang="th"] .be-banking .text-default{font-family:'BangkokBank-Regular',Tahoma,Helvetica,Arial,sans-serif !important;font-size:.93rem!important}
+[lang="th"] .be-banking #search-modal .easy-autocomplete-container ul li {font-size: 1rem;}
+[lang="th"] .be-banking .description.text-default{font-size:1rem!important}
+[lang="th"] .be-banking p{font-family:'BangkokBank-Regular',Tahoma,Helvetica,Arial,sans-serif!important;font-size:1rem}
+[lang="th"] .be-banking .mega-menu .item h3{color:#4e4e4e;font-size:1rem !important}
+[lang="th"] .be-banking .mega-menu .quick-links{padding:0 0 40px}
+[lang="th"] .be-banking .mega-menu .quick-links li{overflow:hidden;float:none}
+[lang="th"] .be-banking .mega-menu .quick-links a:hover{color:#003fbd}
+[lang="th"] .be-banking .mega-menu .quick-links a:active{color:#4c70b7}
+[lang="th"] .be-banking .mega-menu .item:last-child .quick-links{padding-bottom:20px}
+[lang="th"] .be-banking .group-link .title{font-size:1rem;padding:10px 0}
+[lang="th"] .be-banking #footer .list-dash{font-family: 'BangkokBank-Regular',Tahoma,Helvetica,Arial,sans-serif!important;font-size:.93rem}
+[lang="th"] .be-banking  .copy-right{font-family: 'BangkokBank-Regular',Tahoma,Helvetica,Arial,sans-serif!important;font-size:.93rem!important}
+[lang="th"] .be-banking [class*=title],[lang="th"] .be-banking h1,[lang="th"] .be-banking h2,[lang="th"] .be-banking h3,[lang="th"] .be-banking h4,[lang="th"] .be-banking h5,[lang="th"] .be-banking h6,[lang="th"] .be-banking .caption .intro,[lang="th"] .be-banking .breadcrumb li,[lang="th"] .be-banking .catalogue-select,[lang="th"] .be-banking .filter-button,[lang="th"] .be-banking .radio label span,[lang="th"] .be-banking .search-advance,[lang="th"] .be-banking .custom-links .text,[lang="th"] .be-banking .btn-convert,[lang="th"] .be-banking .ui-datepicker-title,[lang="th"] .be-banking .ui-datepicker th,[lang="th"] .be-banking .update-flex-list .item span,[lang="th"] .be-banking .download-link a,[lang="th"] .be-banking [data-tab] .financial-plan,[lang="th"] .be-banking .top-header a,[lang="th"] .be-banking .modal-title,[lang="th"] .be-banking .filter-detail,[lang="th"] .be-banking .nav-title,[lang="th"] .be-banking .other-quicklinks a span,[lang="th"] .be-banking #online-banking .top-links > li > a,[lang="th"] .be-banking .forget-something,[lang="th"] .be-banking .download-preview-file,[lang="th"] .be-banking .rang-slider .range,[lang="th"] .be-banking .icon-search span,[lang="th"] .be-banking .search-input input,[lang="th"] .be-banking .thumb-card .inner .text-default,[lang="th"] .be-banking .btn-default,[lang="th"] .be-banking .btn-white,[lang="th"] .be-banking .label,[lang="th"] .be-banking .ui-selectmenu-menu .ui-menu-item,[lang="th"] .be-banking .ui-selectmenu-button,[lang="th"] .be-banking select.form-control,[lang="th"] .be-banking .download-file,[lang="th"] .be-banking .table-primary,[lang="th"] .be-banking .tab-header a,[lang="th"] .be-banking .tabs-dropdown select,[lang="th"] .be-banking strong,[lang="th"] .be-banking b{font-family:'BangkokBank-Bold',Tahoma,Helvetica,Arial,sans-serif;font-weight:700}
+[lang="th"] .be-banking #online-banking .top-links [data-level-1] {font-family: 'BangkokBank-Light',Tahoma,Helvetica,Arial,sans-serif!important;font-size: 1rem !important;font-weight: normal;line-height: 1.3;color:rgba(102, 102, 102, 0.6)}
+[lang="th"] .be-banking #online-banking .sub-title-medium.line.right {font-size: 1.1rem;}
+[lang="th"] .be-banking .text-small{font-size:inherit}
+[lang="th"] .be-banking .text-x-small{font-size:.8rem}
+[lang="th"] .be-banking .title-1{font-size:2.25rem;line-height:normal}
+[lang="th"] .be-banking .title-2{font-size:1.2rem;font-weight:400}
+[lang="th"] .be-banking .title-3{font-size:1.3rem;font-weight:400}
+[lang="th"] .be-banking .sub-title{font-size:1rem;position: relative;top: 10px;}
+[lang="th"] .be-banking .sub-title {text-transform: uppercase;font-family:'BangkokBank_Text-Bold',Tahoma,Helvetica,Arial,sans-serif !important;font-size: .89rem !important;letter-spacing: .8px;padding-bottom: 20px;}
+[lang="th"] .be-banking .sub-title-small,[lang="th"] .be-banking .thumb-full.large .thumb-square .sub-title-small{font-size:.9rem}
+[lang="th"] .be-banking .sub-title-medium.line.right{font-size:1.1rem;}
+[lang="th"] .be-banking #search-modal .easy-autocomplete-container .eac-item a .sub-title-medium {font-family:'BangkokBank-Regular',Tahoma,Helvetica,Arial,sans-serif !important;font-size:1.1rem;}
+[lang="th"] .be-banking .other-quicklinks a span{font-family: 'BangkokBank-Bold',Tahoma,Helvetica,Arial,sans-serif !important;font-size:1rem}
+[lang="th"] .be-banking .custom-links .text{font-family: 'BangkokBank-Regular',Tahoma,Helvetica,Arial,sans-serif;font-size:1rem}
+[lang="th"] .be-banking [class*='btn']{font-family: 'BangkokBank-Regular',Tahoma,Helvetica,Arial,sans-serif;font-size:1rem}
+[lang="th"] .be-banking .main-nav .link-sub{font-size:1.1rem !important;}
+[lang="th"] .be-banking [data-accordion] .collapse-header{font-size:1.1rem;font-family:'BangkokBank-Bold',Tahoma,Helvetica,Arial,sans-serif}
+[lang="th"] .be-banking .thumb-default .caption .desc{font-size:1rem}
+[lang="th"] .be-banking .banner-carousel .caption p {font-family:'BangkokBank-Regular'!important;font-size: 1.2rem;line-height: 1.57;}
+@media only screen and (max-width: 767px) {
+[lang="th"] .be-banking  .banner-carousel .caption .mobile-banner .mobile-intro,[lang="th"]  .be-banking .main-banner .caption .mobile-banner .mobile-sub-title{padding:1rem 0;color: #4e4e4e!important;font-size:2.4rem;line-height:2.8rem;font-family:'BangkokBank-Regular',Tahoma,Helvetica,Arial,sans-serif !important;padding-bottom:10px;transform:translateY(300px);opacity:0;transition:all .6s .4s;text-shadow:0 1px 1px rgba(255,255,255,0.5)!important}
+[lang="th"] .be-banking .sub-title{font-size:1.4rem;position: relative;top: 10px;}
+[lang="th"] .be-banking #search-modal .search-input input{font-family:'BangkokBank-Regular',Tahoma,Helvetica,Arial,sans-serif;font-size:2.33rem!important}
+[lang="th"] .be-banking .banner .caption p{font-family:'BangkokBank-Bold',Tahoma,Helvetica,Arial,sans-serif !important;font-size:1.05rem!important;line-height:1.25!important;margin-top: 10px;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+[lang="th"] .be-banking .banner-carousel .item.slick-active .caption .mobile-banner .mobile-intro{font-family:'BangkokBank-Bold',Tahoma,Helvetica,Arial,sans-serif !important;opacity:1;transform:translate(0);padding: 10px 0 10px 0;line-height: 1;}
+[lang="th"] .be-banking .banner-carousel .item.slick-active .mobile-banner .mobile-sub-title{font-family:'BangkokBank_Text-Bold',Tahoma,Helvetica,Arial,sans-serif !important;font-size:0.925rem!important;opacity:1;transform:translate(0)}
+[lang="th"] .be-banking .banner-carousel .item.slick-active .button-group,[lang="th"] .be-banking .banner-carousel .item.slick-active .mobile-intro{font-family:'BangkokBank-Regular',Tahoma,Helvetica,Arial,sans-serif !important;opacity:1;transform:translate(0)}
+}
+@media only screen and (min-width: 992px) {
+[lang="th"] .be-banking .banner-carousel .caption .intro{font-size:2.25rem;font-weight: bold;line-height:.9;padding-bottom:10px;text-shadow:0 1px 1px rgba(0,0,0,0.5)}
+[lang="th"] .be-banking #nav{padding-top:14px}
+}
+@media only screen and (max-width: 991px) {
+[lang="th"] .be-banking .title-1{font-size:1.9rem!important;line-height:normal}	
+[lang="th"] .be-banking .main-nav li.has-sub .link-sub:after{position:absolute;right:0;top:50%;font-size:6px}
+[lang="th"] .be-banking .language-selection span,[lang="th"] .be-banking .main-nav li.has-sub.current{font-family:'BangkokBank-Bold',Tahoma,Helvetica,Arial,sans-serif}
+[lang="th"] .be-banking .mega-menu .item h3{color:#4e4e4e;font-size:.95rem}
+[lang="th"] .be-banking .mega-menu .quick-links a{font-size:1rem;padding:20px 0;display:inline-block;color:#4e4e4e;line-height:1.25;white-space:normal;min-width:280px}
+[lang="th"] .be-banking .btn-login[data-btn-login]{font-size:0}
+[lang="th"] .be-banking .main-nav a,[lang="th"] .be-banking .main-nav .link-sub{color:#2b2b2b;display:inline-block;font-weight:700;white-space:nowrap;font-size:1rem!important}
+[lang="th"] .be-banking .main-nav li.has-sub .link-sub:after{position:absolute;right:-20px;top:50%;font-size:6px}
+[lang="th"] .be-banking .main-nav a,.main-nav .link-sub{color:#2b2b2b;display:table-cell;padding:20px 0;font-weight:700;white-space:nowrap}
+[lang="th"] .be-banking .sub-title-medium.line.right{font-size:1.1rem;text-transform:uppercase;letter-spacing:.7px}
+[lang="th"] .be-banking #online-banking .top-links [data-level-1]{text-transform:none;font-size:1rem;color:#999}
+}
